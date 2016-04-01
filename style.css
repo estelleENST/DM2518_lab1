@@ -1,0 +1,38 @@
+html, body {
+ height: 100%; margin: 0; padding: 0; 
+}
+
+#map {
+ height: 100%; 
+}
+
+button {
+	width: 30px;
+	height: 30px;
+	font-size: 16px;
+	text-align: center;
+	margin-right: 15px;
+}
+
+#zoomInBtn {
+	margin-top: 15px;
+}
+.glyphicon {
+	font-size: 12px;
+	text-align: center;
+}
+
+#panUpBtn {
+	margin-top: 15px;
+	margin-left: 45px;
+}
+#panLeftBtn {
+	margin-left: 15px;
+}
+#panRightBtn {
+	margin-left: 75px;
+	margin-top: -30px;
+}
+#panDownBtn {
+	margin-left: 45px;
+}
